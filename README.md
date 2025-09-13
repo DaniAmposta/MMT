@@ -24,8 +24,6 @@ Features
         
     *   CO₂: single cycle & repeat cycle (cycles/day, days/year, #motors, country)
         
-    *   **Cost €**: annual energy cost =  
-        `Total yearly CO₂ / (kgCO₂eq per kWh) × €/kWh`,  
-        accumulated year over year with acquisition, maintenance, and replacements
+    *   **Cost €**: annual energy cost accumulated year over year with acquisition, maintenance, and replacements
         
 *   Export charts (PNG), color customization, tidy UI
