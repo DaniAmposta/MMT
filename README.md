@@ -1,4 +1,4 @@
-“MMT
+MMT
 ===
 
 **MMT** is a desktop application built with **PyQt5** for analyzing and auditing electric motors. It combines winding design tools with operational analytics (efficiency, energy, CO₂) and a dynamic **cost model** driven by repeat-cycle settings.
@@ -28,4 +28,4 @@ Features
         `Total yearly CO₂ / (kgCO₂eq per kWh) × €/kWh`,  
         accumulated year over year with acquisition, maintenance, and replacements
         
-*   Export charts (PNG), color customization, tidy UI”
+*   Export charts (PNG), color customization, tidy UI
